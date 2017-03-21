@@ -121,3 +121,5 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
+<a href="http://www.dmca.com/Protection/Status.aspx?ID=7e4d5413-7b6a-459b-8be6-939e51ecfd2e" title="DMCA.com Protection Status" class="dmca-badge"> <img src="//images.dmca.com/Badges/dmca-badge-w100-5x1-08.png?ID=7e4d5413-7b6a-459b-8be6-939e51ecfd2e" alt="DMCA.com Protection Status"></a> <script src="//images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
